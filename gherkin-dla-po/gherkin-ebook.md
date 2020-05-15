@@ -95,7 +95,7 @@ Scenariusz: Wygenerowanie historii transakcji
 	Zakładając ze Klient jest zalogowany
 	Oraz jest w Pulpicie
 	Jeżeli wybrał 'Pokaż historię'
-	Wtedy widzi historię transakcji od początku bierzącego miesiąca
+	Wtedy widzi historię transakcji od początku bieżącego miesiąca
 ```
 
 # Ścieżki krytyczne
